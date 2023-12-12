@@ -3,3 +3,4 @@ tail -n 1 iacta | tee -a iacta
 tail -n 1 iacta | tee -a iacta
 tail -n 1 iacta | tee -a iacta
 tail -n 1 iacta | tee -a iacta
+tail -n 1 iacta | tee -a iacta
