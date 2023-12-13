@@ -1,3 +1,2 @@
 #!/bin/bash
-read -r input
-echo "$input" | rev
+echo "Reverse" | rev
