@@ -1,0 +1,2 @@
+#!/bin/bash
+result=$(python -c "print('$BREATH' ** '$LOVE')"); echo $result
