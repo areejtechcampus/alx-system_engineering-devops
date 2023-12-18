@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p $(compgen -A variable) $(compgen -A function)
+for var in $(compgen -A variable); do echo "$var=${!var}"; done && compgen -A function
